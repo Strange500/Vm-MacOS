@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MacOS
+Comment=Start MacOS Big Sur
+Exec=/home/strange/script/MacOS.sh
+Terminal=true
+Type=Application
+Icon=/home/strange/script/apple.png
+Categories=Multimedia;
+
