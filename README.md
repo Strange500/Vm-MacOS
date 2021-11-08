@@ -2,3 +2,6 @@
 Based on OSX KVM master repostery
 there is the original README file in OSX KVM directory
 
+The raccourci directory contain a shortcut for your desktop made by my own 
+just make sure that
+
